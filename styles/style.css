@@ -4,7 +4,7 @@ body {
    line-height: 1.6;
     margin: 0;
     padding: 0;
-    
+
 }
 
 header, footer {
@@ -22,8 +22,15 @@ main {
   padding: 20px;
 }
 
-#benefits ul {
+benefits ul {
   list-style-type: square;
+  margin-left: 20px;
+  color: #FFD700 ;
+
+}
+
+li {
+  color: #FFD700 ;
   margin-left: 20px;
 }
 
