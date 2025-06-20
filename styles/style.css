@@ -13,11 +13,13 @@ header, footer {
   color:#fff;
   padding: 20px;
   text-align: center;
-  <a href ="https://www.britannica.com/art/literature"></a>
+
 }
 
 h1, h2 {
   color: # 333;
+  text-decoration-line: underline;
+
 }
 
 main {
@@ -29,11 +31,13 @@ benefits ul {
   margin-left: 20px;
   color: #FFD700 ;
 
+
 }
 
 li {
   color: #FFD700 ;
   margin-left: 20px;
+  text-decoration-style: double;
 }
 
 blockquote {
