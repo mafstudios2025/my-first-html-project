@@ -3,22 +3,27 @@ font-family: Arial, sans-serif;
 line-height:  1.6;
 margin: 0;
 padding: 0;
+background-color : #FFD700;
 }
 
 header, footer {
-background-color : #333;
+background-color: #B8860B;
 color: #fff;
 padding: 20px;
 text-align: center;
 }
 
 h1,h2 {
-color: #333;
+color: #fff;
 }
+
 
 main {
 padding: 20px;
+
 }
+
+
 
 #benefits ul{
 list-style-type: square;
