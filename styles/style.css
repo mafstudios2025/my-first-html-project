@@ -6,6 +6,7 @@ padding: 0;
 background-color : #FFD700;
 }
 
+
 header, footer {
 background-color: #B8860B;
 color: #fff;
@@ -18,7 +19,6 @@ color: #fff;
 text-decoration:inherit;
 text-decoration-style: solid;
 }
-
 
 
 main {
@@ -48,4 +48,5 @@ background-color: #f4f4f4;
 border-left:  5px solid #ccc;
 text-decoration: underline;
 text-decoration-style: solid;
+color: blue;
 }
