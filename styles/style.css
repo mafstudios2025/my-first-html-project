@@ -30,6 +30,11 @@ list-style-type: square;
 margin-left: 20px;
 }
 
+li {
+color: #A9A9A9;
+margin: center;
+
+}
 blockquote{
 font-style: italic;
 margin: 20px;
