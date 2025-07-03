@@ -15,12 +15,15 @@ text-align: center;
 
 h1,h2 {
 color: #fff;
+text-decoration:inherit;
+text-decoration-style: solid;
 }
 
 
-main {
-padding: 20px;
 
+main {
+padding: 30px;
+color: #778899;
 }
 
 
@@ -33,6 +36,8 @@ margin-left: 20px;
 li {
 color: #A9A9A9;
 margin: center;
+text-decoration: underline;
+text-decoration-style: solid;
 
 }
 blockquote{
@@ -41,4 +46,6 @@ margin: 20px;
 padding: 10px;
 background-color: #f4f4f4;
 border-left:  5px solid #ccc;
+text-decoration: underline;
+text-decoration-style: solid;
 }
